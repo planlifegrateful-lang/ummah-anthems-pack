@@ -1,0 +1,51 @@
+AUTOPILOT SONG CREATION FORMULA
+Use this exact system to generate unlimited high-quality tracks in the same style.
+
+STEP 1: CHOOSE THE CORE EMOTION + FAITH ANCHOR
+Examples:
+- Resilience → Tawakkul / “I counted on Allah”
+- Identity → Five Pillars / Shahada
+- Urgency → Ummah responsibility
+- Growth through hardship → Pressure / Sabr
+- Action → Start now / intention + effort
+
+STEP 2: STRUCTURE TEMPLATE (always use this)
+[Intro] – 2-4 lines, atmospheric or spoken
+[Verse 1] – 8-12 lines, personal story + faith element
+[Pre-Chorus] – 4 lines, rising tension
+[Chorus] – 8 lines, memorable, repeatable, emotional peak
+[Verse 2] – 8-12 lines, deeper or solution-focused
+[Pre-Chorus]
+[Chorus]
+[Bridge] – 6-8 lines, shift in energy or direct call
+[Final Chorus] – bigger version of chorus
+[Outro] – short resolution
+
+STEP 3: LANGUAGE RULES
+- Keep it first-person or direct “you”
+- Mix modern motivational language with authentic Islamic references (Allah, salah, sujood, ummah, sabr, tawakkul, deen)
+- Avoid being overly poetic or archaic – make it feel like it could be said in a conversation or khutbah
+- Rhyme scheme: flexible, prioritize flow and emotion over perfect rhyme
+- Target 140 BPM energy even if tempo varies slightly
+
+STEP 4: SUNO STYLE PROMPT FORMULA
+“[BPM] [mood] motivational trap, cinematic [adjective] production, deep male vocals with [emotion], heavy 808s / atmospheric pads, [specific elements], polished commercial, radio-ready, [energy], no female vocals”
+
+STEP 5: GENERATION PROTOCOL
+1. Write full lyrics using the structure
+2. Paste into Suno with the style prompt
+3. Generate 2 versions
+4. Pick the stronger emotional delivery
+5. Create 30-45 second TikTok cut focusing on Chorus or Bridge + Chorus
+6. Write 3 caption variations + 1 hard CTA
+
+STEP 6: CONTENT MULTIPLIER
+From one song you immediately get:
+- Full track
+- 3-5 short clips
+- Lyric video potential
+- Background for talking-head content
+- Quote graphics
+- Series potential (Part 1, Part 2 of the message)
+
+This formula is how the 5 tracks in this pack were created. Run it weekly and you will never run out of powerful content.
