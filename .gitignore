@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated audio (keep lyrics clean)
+*.mp3
+*.wav
+*.flac
+*.m4a
+
+# Local secrets / notes
+.env
+*.local
+
+# Zip archives
+*.zip
+
+# Node / build if ever added
+node_modules/
+dist/
+build/
