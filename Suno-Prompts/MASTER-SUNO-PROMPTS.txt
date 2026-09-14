@@ -1,0 +1,41 @@
+UMMAH ANTHEMS – MASTER SUNO PROMPTS
+Copy-paste ready. Use Custom mode in Suno. Paste lyrics + style prompt.
+
+========================================
+01. DON'T GIVE UP
+========================================
+Style Prompt:
+140 BPM dark motivational trap, cinematic Islamic motivational anthem, polished commercial production, deep male vocals with emotional conviction, heavy 808s, atmospheric pads, subtle Arabic scale melodies, beat drop before final chorus, powerful build-ups, clean mix, radio-ready, inspirational energy, no female vocals
+
+========================================
+02. FIVE PILLARS
+========================================
+Style Prompt:
+138 BPM cinematic motivational trap with spiritual depth, polished commercial production, deep sincere male vocals, soft Arabic melodic elements, warm atmospheric pads, steady powerful drums, emotional build, clean radio-ready mix, faith-rooted energy, no female vocals
+
+========================================
+03. UMMAH WAKEUP
+========================================
+Style Prompt:
+142 BPM urgent motivational trap anthem, dark cinematic production, commanding deep male vocals, heavy 808s, tense atmospheric tension, rising intensity, call-to-action energy, polished commercial mix, powerful and urgent, no female vocals
+
+========================================
+04. PRESSURE MAKES DIAMONDS
+========================================
+Style Prompt:
+140 BPM dark cinematic trap, heavy emotional production, deep male vocals with grit and triumph, crushing 808s, atmospheric tension that releases into light, triumphant build, polished commercial quality, motivational power, no female vocals
+
+========================================
+05. START TODAY
+========================================
+Style Prompt:
+136 BPM uplifting motivational trap with cinematic lift, clean polished production, warm confident male vocals, bright yet grounded energy, steady driving drums, hopeful atmospheric pads, radio-ready, clear and inspiring, no female vocals
+
+========================================
+UNIVERSAL TIPS FOR BEST RESULTS
+========================================
+- Always paste the full lyrics with section tags [Intro] [Verse 1] etc.
+- Generate 2 versions of each and pick the stronger one.
+- Use “Continue” or “Extend” if the structure needs tightening.
+- For shorter TikTok versions, generate 30-45 second cuts focusing on Chorus + Bridge.
+- Add “male vocals only, no autotune excess, natural emotion” if needed.
