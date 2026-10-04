@@ -1,8 +1,16 @@
-# UMMAH ANTHEMS – COMPLETE DIGITAL PRODUCT PACK
+# UMMAH ANTHEMS – MUSIC SYSTEM FOR PLAN LIFE GRATEFUL
 
-**Faith-rooted motivational Islamic anthems ready for Suno + full creator revenue system.**
+**Faith-rooted motivational Islamic anthems ready for Suno + content that drives the live cash path.**
 
-This repository contains the complete ready-to-sell and ready-to-use digital product:
+**Current role (2026-10-04 lock):**  
+These tracks are **content fuel** for the primary offer: **Grateful Habit OS — $19**.  
+Use the music under Shorts / Reels that end on the live checkout.  
+Do **not** push a separate $27 Gumroad product until the $19 SKU has confirmed sales + payouts clear.
+
+**Live Checkout (only one allowed):**  
+https://whop.com/checkout/ch_T70dt1eBZWMWABb/
+
+---
 
 ## What's Inside
 
@@ -18,28 +26,34 @@ This repository contains the complete ready-to-sell and ready-to-use digital pro
 Exact style prompts engineered for consistent, polished commercial results.
 
 ### Sales-Assets/
-Full Gumroad / Payhip sales page copy (headline, problem, solution, bonuses, guarantee, pricing, FAQ).
+(Legacy) Full sales page copy — keep for future upsell only.
 
 ### Content-Calendar/
-30-day Content-to-Cash calendar that turns these tracks into audience growth and product sales.
+30-day Content-to-Cash calendar — now points traffic to the $19 Grateful Habit OS.
 
 ### Autopilot-System/
-- Song Creation Formula (so you can generate unlimited more tracks at the same quality)
-- UGC / TikTok script templates ready to film
-
-## Immediate Next Actions
-
-1. Generate all 5 tracks in Suno using the Master Prompts.
-2. Copy the sales page into Gumroad or Payhip and set price to **$27**.
-3. Start posting Day 1 of the content calendar today.
-4. Use the Autopilot Formula weekly to create Pack 2, Pack 3, etc.
-
-## License / Usage
-You may use the generated audio tracks for content, monetization, and personal projects.  
-Do not resell the raw lyric files as your own product.
+- Song Creation Formula (generate unlimited more tracks)
+- UGC / TikTok script templates ready to film over the tracks
 
 ---
 
-Built for creators who want powerful, authentic Islamic motivational content that converts.
+## Immediate Next Actions (10/10)
 
-**Repo:** https://github.com/planlifegrateful-lang/ummah-anthems-pack
+1. Generate Track 01 “Don’t Give Up” in Suno using the Master Prompt + full lyrics.
+2. Drop the audio into CapCut with the 15s Stress → Ease script (already in Buffer).
+3. Export vertical → post / queue with pin comment containing the $19 checkout.
+4. Repeat for remaining tracks as content volume.
+
+## How Music Feeds the Cash Path
+
+Suno track → CapCut (text overlays of grateful language) → Buffer / YouTube Charles → Pin $19 checkout → Grateful Habit OS sale.
+
+This is the unified system. Music is not a separate product right now. It is the emotional engine for the live $19 offer.
+
+---
+
+**Master Control Plane:** https://github.com/planlifegrateful-lang/planlife-grateful-os  
+**Suno Video Factory:** https://github.com/planlifegrateful-lang/suno-video-factory  
+**Suno Profile:** https://suno.com/@planlifegrateful
+
+Alhamdulillah. Use the tracks. Drive the $19.
